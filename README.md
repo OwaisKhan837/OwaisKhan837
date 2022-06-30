@@ -1,7 +1,6 @@
-### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiqkhan480&show_icons=true&theme=cobalt2&bg_color=DEG,145277,471069)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FaiqKhan=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiqkhan480&langs_count=8&theme=cobalt2&bg_color=DEG,145277,471069)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **faiqkhan480/faiqkhan480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
