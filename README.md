@@ -1,3 +1,8 @@
+### Hi there 👋
+
+Hi, I'm Faiq and I'm a flutter developer.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faiqkhan480&show_icons=true&theme=cobalt2&bg_color=DEG,145277,471069)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiqkhan480&langs_count=8&theme=cobalt2&bg_color=DEG,145277,471069)](https://github.com/anuraghazra/github-readme-stats)
