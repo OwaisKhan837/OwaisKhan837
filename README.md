@@ -50,10 +50,11 @@ Key Skills :
 
 <hr>
 
-<h2> Contact with me on </h2>
+<h2> 📫 How to reach me: </h2>
 
+<!--- 
 - personal email : shayankhan480@gmail.com
-
+-->
 <p>
  <a href="https://www.facebook.com/Faique.Saeed480" target="_blank">
   <img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -61,6 +62,7 @@ Key Skills :
  <a href="https://www.linkedin.com/in/faique-saeed-89bb5411b" target="_blank">
   <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
+
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faiqkhan480&show_icons=true&theme=cobalt2&count_private=true&include_all_commits=true&hide_border=true&bg_color=DEG,145277,471069&line_height=23" /> 
