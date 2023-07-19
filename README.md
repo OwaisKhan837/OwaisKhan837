@@ -63,7 +63,7 @@ Key Skills :
  </a>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faiqkhan480&show_icons=true&theme=cobalt2&count_private=true&include_all_commits=true&hide_border=true&bg_color=DEG,145277,471069" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faiqkhan480&show_icons=true&theme=cobalt2&count_private=true&include_all_commits=true&hide_border=true&bg_color=DEG,145277,471069&line_height=23" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=faiqkhan480&theme=cobalt2&hide_border=true&background=45%2C145277%2C471069" />
 </p>
 
