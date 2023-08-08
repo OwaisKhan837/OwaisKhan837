@@ -63,10 +63,12 @@ Key Skills :
   <img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
 
-
+<!--- [GITHUB_STATS & GITHUB_STREAK]:-->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OwaisKhan837&show_icons=true&theme=cobalt2&count_private=true&include_all_commits=true&hide_border=true&bg_color=DEG,145277,471069&line_height=23" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=OwaisKhan837&theme=cobalt2&hide_border=true&background=45%2C145277%2C471069" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OwaisKhan837&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&hide_border=true&bg_color=0D1117&line_height=23" /> 
+ 
+
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=OwaisKhan837&theme=dark&hide_border=true&background=0D1117" />
 </p>
 
 <!--
