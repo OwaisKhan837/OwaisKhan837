@@ -31,7 +31,7 @@
 </div>
 </p>
 
-<p><img src="https://komarev.com/ghpvc/?username=faiqkhan480&style=flat-square&color=red" alt=""></p>
+<p><img src="https://komarev.com/ghpvc/?username=OwaisKhan837&style=flat-square&color=red" alt=""></p>
 <p><em>Application Developer at <a href="http://must.edu.eg">GeSolucions </a></br> 
 Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -65,8 +65,8 @@ Key Skills :
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=faiqkhan480&show_icons=true&theme=cobalt2&count_private=true&include_all_commits=true&hide_border=true&bg_color=DEG,145277,471069&line_height=23" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=faiqkhan480&theme=cobalt2&hide_border=true&background=45%2C145277%2C471069" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=OwaisKhan837&show_icons=true&theme=cobalt2&count_private=true&include_all_commits=true&hide_border=true&bg_color=DEG,145277,471069&line_height=23" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=OwaisKhan837&theme=cobalt2&hide_border=true&background=45%2C145277%2C471069" />
 </p>
 
 <!--
