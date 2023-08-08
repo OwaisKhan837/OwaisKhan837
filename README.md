@@ -1,6 +1,6 @@
 <p align="center">
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Faiq+Saeed...;I'm+a+Flutter+Devloper...;Specialized+in+Mobile+Dev..)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Owais+Khan...;I'm+a+.NEt+Devloper...;Specialized+in+Mobile+Dev..)](https://git.io/typing-svg)
  <br/>
  <div align="center">
   <img src="https://raw.githubusercontent.com/faiqkhan480/faiqkhan480/main/code.gif" height=300 >
