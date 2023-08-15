@@ -1,56 +1,73 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Owais Khan</h1>
+
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; A full stack web application developer
+        </samp>
+</h3>
+
+
+</hr>
+  
+
 <p align="center">
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cairo&color=9ED6F8&size=30&lines=Hey!+There;I'm+Owais+Khan...;I'm+a+.NEt+Devloper...;Specialized+in+Mobile+Dev..)](https://git.io/typing-svg)
- <br/>
- <div align="center">
-  <img src="https://raw.githubusercontent.com/faiqkhan480/faiqkhan480/main/code.gif" height=300 >
- </div>
-
+ <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
+   <img alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="mailto:lionratheshan@gmail.com">
+    <img alt="Ratheshan Sathiyamoorthy | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/Ratheshan_03">
+    <img alt="Ratheshan Sathiyamoorthy| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+  <a href="https://www.instagram.com/ratheshan_03/">
+    <img alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+  </a>
+   <a href="https://www.facebook.com/profile.php?id=100003874786181">
+    <img alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+   <a href="https://github.com/Ratheshan03">
+    <img alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+<!--  
+ <a href="https://alsiam.com" target="blank"> 
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/saifalsiam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://twitter.com/alsiam_dev" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/alsiam.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+ -->
 </p>
+<br />
 
+<!-- About Section -->
+ # About me
+ 
 <p>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
-  </div>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+
 </p>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Firebase-ffcb2b?style=for-the-badge&logo=firebase&logoColor=black">
-  <img src="https://img.shields.io/badge/sqflite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
-</div>
-</p>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
-</div>
-</p>
-
-<p><img src="https://komarev.com/ghpvc/?username=OwaisKhan837&style=flat-square&color=red" alt=""></p>
-<p><em>Application Developer at <a href="http://must.edu.eg">GeSolucions </a></br> 
-Freelancer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-<!--- Entrepreneur :rocket:-->
-- Problem Solver :computer:
-- Creative :bulb:
-
-Key Skills :
-- Cross-Platform Frameworks: Flutter | REACT
-- Mobile App Development (Android, iOS)
-- Programming Languages: Dart, JavaScript
-- Backend Technologies: Node.js, RESTful APIs, Firebase Technologies
-- UI/UX Design Principles
-- Problem-solving and Troubleshooting
+<br/>
+<br/>
+<br/>
 
 <hr>
-
-<h2> 📫 How to reach me: </h2>
 
 <!--- 
 - personal email : shayankhan480@gmail.com
